@@ -25,6 +25,8 @@ Steps followed to dockerize this project:
 7. To stop
 - docker stop NAMES (sub in local NAME)
 
+_________________________________________
+
 - To use with Docker Compose
 1. Create docker-compose.yml
 2. Start Docker
